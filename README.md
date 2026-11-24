@@ -20,7 +20,8 @@ Suba a pasta em qualquer hospedagem estática (Netlify Drop, Vercel, GitHub Page
 ## Links configurados
 - Instagram: https://instagram.com/angelikafelix_
 - WhatsApp: +55 83 98730-5188
-- Agenda e Cursos: ainda sem link (botões apontam para `#`)
+- YouTube: https://www.youtube.com/@angelikapolyglot
+- Agenda: ainda sem link (botão aponta para `#`)
 
 ## Conteúdo
 Hero com cumprimentos de 7 países · Links · Palabra del día (quiz) · La profe & modalidades · Valores 2027 · CTA aula diagnóstico gratuita.
