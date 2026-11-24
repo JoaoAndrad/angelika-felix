@@ -3,7 +3,8 @@
 Landing page da Angelika Felix, profe de español e português para estrangeiros.
 
 ## Arquivos
-- `index.html` — página completa e autossuficiente (fontes, foto e scripts embutidos). Funciona offline.
+- `index.html` — página (conteúdo, estilos e lógica).
+- `assets/` — fontes e scripts.
 - `angelika.png` — foto original com fundo transparente.
 
 ## Desktop e mobile
@@ -11,7 +12,7 @@ Landing page da Angelika Felix, profe de español e português para estrangeiros
 - **Desktop (≥ 760px):** cumprimento à esquerda, foto à direita com formas animadas.
 - **Mobile (< 760px):** cumprimento no topo, foto centralizada apoiada no cartão de tradução, países em linha rolável.
 
-Para testar o mobile no computador: abra `index.html`, pressione F12 e ative o modo dispositivo (ícone de celular).
+Para testar o mobile no computador: abra o site, pressione F12 e ative o modo dispositivo (ícone de celular).
 
 ## Como publicar
 Suba a pasta em qualquer hospedagem estática (Netlify Drop, Vercel, GitHub Pages, Hostinger). Arraste a pasta para https://app.netlify.com/drop para um link em segundos.
